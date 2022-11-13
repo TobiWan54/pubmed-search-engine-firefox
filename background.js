@@ -2,10 +2,10 @@ browser.contextMenus.create({
     id: "search-with-pubmed",
     title: "Search in PubMed",
     icons: {
-        "16": "icons/16.ico",
-        "24": "icons/24.ico",
-        "32": "icons/32.ico",
-        "48": "icons/48.ico",
+        "16": "icons/16.png",
+        "24": "icons/24.png",
+        "32": "icons/32.png",
+        "48": "icons/48.png",
     },
     contexts: ["selection"],
 });
