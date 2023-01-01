@@ -1,3 +1,3 @@
-# PubMed search engine add-on for Firefox (in development).
+# PubMed search engine add-on for Firefox
 
-[![Placeholder](https://img.shields.io/amo/v/google-scholar-search-engine)](https://pubmed.ncbi.nlm.nih.gov/)
+[![PubMed Search Engine](https://img.shields.io/amo/v/pubmed-search-engine)](https://addons.mozilla.org/firefox/addon/pubmed-search-engine/)
